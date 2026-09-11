@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.BCSQuiz" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#6650a4</item>
+    </style>
+</resources>
